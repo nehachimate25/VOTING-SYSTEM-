@@ -1,0 +1,7 @@
+# Bharat Vote (Tkinter Edition) — Requirements
+# Core libraries (Python standard library — no install needed):
+#   tkinter, sqlite3, pickle, hashlib, datetime, csv, pathlib
+
+# Install these via pip:
+matplotlib>=3.7.0
+numpy>=1.24.0
